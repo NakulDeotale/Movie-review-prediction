@@ -1,0 +1,1 @@
+# This is an end to end project on moview review prediction(positive or negative) using RNN.
